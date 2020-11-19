@@ -7,7 +7,7 @@ title: COINE
 
 ### COINE@AAMAS2020 Co-Chairs
 
-[Andreas Theodoroua](mailto:andrea.theodorou@umu.se) (Umeå University, SE)  
+[Andreas Theodorou](mailto:andrea.theodorou@umu.se) (Umeå University, SE)  
 [Juan Carlos Nieves](mailto:jcnieves@umu.se)(Umeå University, SE)  
 [Marina De Vos](mailto:cssmdv@bath.ac.uk>) (University of Bath, UK)  
 
