@@ -18,23 +18,16 @@ The pervasiveness of "open systems" raises a range of challenges and opportuniti
 
 This workshop is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (12 times), IJCAI, AAAI and ECAI since 2006 (see [COIN Series Website](http://www2.pcs.usp.br/~coin)), and produced 12 volumes of post-proceedings in Springer's Lecture Notes in Artificial Intelligence. While operating in the tradition of the COIN workshop series, this edition of the workshop adds ethics to the workshop name and acronym as an explicit focus of the workshop, and includes governance of MAS in the workshop name to highlight this as the common objective uniting the various strands of research of interest to the workshop. 
 
-*Note:* COINE will inherit COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). 
+*Note:* COINE inherited COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). 
 
-This edition of COINE will be hosted by [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/) and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Under its new COINE brand, this workshop will not only be of interest to its traditional sub-community of AAMAS participants (those researchers working on coordination, organisational, institutional and normative models and technologies for MAS), but also invites researchers investigating the growing field of ethical governance of MAS.
+This edition of COINE will be hosted by [AAMAS 2021](https://aamas2021.soton.ac.uk/) and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Under its new COINE brand, this workshop will not only be of interest to its traditional sub-community of AAMAS participants (those researchers working on coordination, organisational, institutional and normative models and technologies for MAS), but also invites researchers investigating the growing field of ethical governance of MAS.
 
 
 ## Important Dates
 
 Note: These dates are subject to further updates.
 
-- Paper submission (extended): ~~5th February, 2020~~ 23rd February, 2020
-- Author notifications: 10th March, 2020
-- Camera-ready deadline: 15th April, 2020
-- Workshop: 9th May, 2020
-
-<!---
-- ~~February 7, 2017~~ February 17, 2017: Deadline for paper submissions
-- ~~March 2, 2017~~ March 15, 2017: Paper notifications sent
-- ~~March 9, 2017~~ March 22, 2017: Camera-ready copy due
-- May 8 or 9, 2017: Date of workshop
--->
+- Paper submission (extended):5th February, 2021
+- Author notifications: 15th March, 2021
+- Camera-ready deadline: 24th April, 2021
+- Workshop: 3rd or 4th May, 2021
