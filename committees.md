@@ -7,12 +7,14 @@ title: COINE
 
 ### COINE@AAMAS2020 Co-Chairs
 
-[Andrea Aler Tubella](mailto:andrea.aler@umu.se) (Umeå University, SE)  
-[Stephen Cranefield](mailto:stephen.cranefield@otago.ac.nz) (University of Otago, NZ)  
-[Christopher Frantz](mailto:christopher.frantz@ntnu.no) (Norwegian University of Science and Technology, NO)  
+[Andreas Theodoroua](mailto:andrea.theodorou@umu.se) (Umeå University, SE)  
+[Juan Carlos Nieves](mailto:jcnieves@umu.se)(Umeå University, SE)  
+[Marina De Vos](mailto:cssmdv@bath.ac.uk>) (University of Bath, UK)  
 
 ### Programme Committee
 
+TBA
+<!--
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
 - Leonardo Rosa Amado (Pontifícia Universidade Católica do Rio Grande do Sul, BR)
 - Olivier Boissier (Mines Saint-Etienne, FR)
@@ -32,6 +34,7 @@ title: COINE
 - Javier Vazquez-Salceda (Center for Intelligent Data Analysis and Artificial Intelligence, Universitat Politecnica de Catalunya-BarcelonaTech, ES)
 - Marina De Vos (University of Bath, UK)
 - George Vouros (University of Piraeus, GR)
+-->
 
 <!-- *Others to be confirmed* -->
 
