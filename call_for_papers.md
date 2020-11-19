@@ -6,10 +6,10 @@ title: COINE
 ## Call for Papers
 
 COINE 2020 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
-Auckland, New Zealand, 9-13 May, 2020
-(https://aamas2020.conference.auckland.ac.nz/)
+Auckland, New Zealand, 9-13 May, 2021
+(https://https://aamas2021.soton.ac.uk/)
 
-### *Submission deadline (extended): ~~5th February, 2020~~ 23rd February, 2020 (more details below)*
+### *Submission deadline (extended): 5th February, 2021 (more details below)*
 
 ### Overview
 
@@ -20,47 +20,43 @@ Coordination, organizations, institutions, norms and ethics are five key governa
 Continuing this tradition, the goal of the COINE workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, norm-aware and ethical agents.
 
 We invite submissions that address any of the following aspects:
-- mathematical, logical, computational, philosophical and pragmatic issues related to
-the issues above;
-- modelling, animation and simulation techniques for open MAS;
-- tools, prototypes and actual working systems;
-- experimental investigation of the effectiveness of COINE technologies;
-- challenging or innovative ideas relevant to the field.
+-mathematical, logical, computational, philosophical and pragmatic issues related to COINE;
+-modelling, animation and simulation techniques for open MAS;
+-tools, prototypes and working systems;
+-experimental investigation of the effectiveness of COINE technologies;
+-challenging or innovative ideas relevant to the field;
+-methodologies for the development of trustworthy AI; and
+-trustworthy AI education within the scope of MAS. 
 
 The workshop complements the main AAMAS program by allowing a more relaxed and in-depth discussion of MAS from a social perspective and has proven to be an event that encourages debate, and fosters collaboration among researchers in these topics.
 
-A specific emphasis of this year's iteration of COINE lies on the response to the wider uptake of COINE technologies within and across AAMAS communities, such as social robotics and reinforcement learning. To leverage a broader understanding on how COINE-related themes are employed in these research disciplines, we will invite established researchers from the respective fields in order to highlight their perspectives on and adoption of COINE theory and technologies. Building on those insights, we will use this workshop to provide a platform to discuss the potentially varying viewpoints and facilitate the exploration of synergies as well as opportunities for cross-fertilisation across community boundaries.
+A specific emphasis of this year's iteration of COINE lies on the response to growing interest in the concept of norms applied to social and human-centric AI, so we will also aim to establish better mutual awareness between COINE and that community by making explicit references in our scope for research in development methodologies and education of trustworthy AI.
 
-COINE inherits COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list [http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
+To leverage a broader understanding on how COINE-related themes are employed in these research disciplines, we will invite established researchers from the respective fields in order to highlight their perspectives on and adoption of COINE theory and technologies. Building on those insights, we will use this workshop to provide a platform to discuss the potentially varying viewpoints and facilitate the exploration of synergies as well as collaborative opportunities across community boundaries.
+
+COINE inherited COIN’s B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list http://portal.core.edu.au/conf-ranks/2160/. COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
 
 
 ### Important Dates
 
 Note: These dates are subject to further updates.
 
-- Paper submission: ~~5th February, 2020~~ 23rd February, 2020
-- Author notifications: 10th March, 2020
-- Camera-ready deadline: 15th April, 2020
-- Workshop: 9th May, 2020
+- Paper submission: February 5, 2021
+- Author notifications: March 15, 2021
+- Camera-ready deadline: March 24, 2021
+- Workshop: May 3 or 4, 2021
 
-<!---
-- February 7, 2020 February 17, 2017: Deadline for paper submissions
-- March 2, 2017 March 15, 2017: Paper notifications sent
-- March 9, 2017 March 22, 2017: Camera-ready copy due
-- ~~May 8 or 9, 2017: Date of workshop 
--->
 
 ### Instructions for Authors
 
-For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. The length of each paper including figures and references may not exceed 16 pages. All papers must be written in English and submitted in PDF format. For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2020](https://easychair.org/conferences/?conf=coine2020)
+For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. The length of each paper including figures and references may not exceed 16 pages. All papers must be written in English and submitted in PDF format. For submission of papers, please use the EasyChair site at: TBA.
 
 Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. 
 
 ### Proceedings
 
-Preliminary proceedings will be available via the workshop web site.
+Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2021 registrants in electronic form.
 
-As with previous COIN workshops, COINE will publish post-proceedings in Springer's LNCS series. Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings. 
+As with previous COIN(E) workshops, COINE will publish post-proceedings in Springer’s LNCS series. Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings.
 
 Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
-
