@@ -9,7 +9,7 @@ COINE 2020 is co-located with the International Conference on Autonomous Agents 
 Auckland, New Zealand, 9-13 May, 2021
 (https://https://aamas2021.soton.ac.uk/)
 
-### *Submission deadline (extended): 5th February, 2021 (more details below)*
+### *Submission deadline: 5th February, 2021 (more details below)*
 
 ### Overview
 
