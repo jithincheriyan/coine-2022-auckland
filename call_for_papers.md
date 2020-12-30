@@ -6,7 +6,7 @@ title: COINE
 ## Call for Papers
 
 COINE 2020 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
-London, UK, 9-13 May, 2021
+London, UK, 3-7 May, 2021
 (https://https://aamas2021.soton.ac.uk/)
 
 ### *Submission deadline: 5th February, 2021 (more details below)*
@@ -49,7 +49,7 @@ Note: These dates are subject to further updates.
 
 ### Instructions for Authors
 
-For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. The length of each paper including figures and references may not exceed 16 pages. All papers must be written in English and submitted in PDF format. For submission of papers, please use the EasyChair site at: TBA.
+For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. The length of each paper including figures and references may not exceed 16 pages. All papers must be written in English and submitted in PDF format. For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2021](https://easychair.org/conferences/?conf=coine2021)
 
 Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. 
 
