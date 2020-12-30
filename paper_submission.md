@@ -11,7 +11,7 @@ For preparation of papers please follow the instructions for authors available a
 The length of each paper including figures and references may not exceed 16 pages.
 All papers must be written in English and submitted in PDF format. 
 
-For submission of papers, please use the EasyChair site TBA
+For submission of papers, please use the EasyChair site: [https://easychair.org/conferences/?conf=coine2021](https://easychair.org/conferences/?conf=coine2021)
 
 Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. 
 
