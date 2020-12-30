@@ -6,7 +6,7 @@ title: COINE
 ## Call for Papers
 
 COINE 2020 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
-Auckland, New Zealand, 9-13 May, 2021
+London, UK, 9-13 May, 2021
 (https://https://aamas2021.soton.ac.uk/)
 
 ### *Submission deadline: 5th February, 2021 (more details below)*
