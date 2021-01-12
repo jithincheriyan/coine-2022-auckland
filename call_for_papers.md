@@ -4,8 +4,7 @@ title: COINE
 ---
 
 ## Call for Papers
-
-COINE 2020 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
+COINE 2021 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
 London, UK, 3-7 May, 2021
 (https://https://aamas2021.soton.ac.uk/)
 
@@ -20,13 +19,13 @@ Coordination, organizations, institutions, norms and ethics are five key governa
 Continuing this tradition, the goal of the COINE workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, norm-aware and ethical agents.
 
 We invite submissions that address any of the following aspects:
--mathematical, logical, computational, philosophical and pragmatic issues related to COINE;
--modelling, animation and simulation techniques for open MAS;
--tools, prototypes and working systems;
--experimental investigation of the effectiveness of COINE technologies;
--challenging or innovative ideas relevant to the field;
--methodologies for the development of trustworthy AI; and
--trustworthy AI education within the scope of MAS. 
+- mathematical, logical, computational, philosophical and pragmatic issues related to COINE;
+- modelling, animation and simulation techniques for open MAS;
+- tools, prototypes and working systems;
+- experimental investigation of the effectiveness of COINE technologies;
+- challenging or innovative ideas relevant to the field;
+- methodologies for the development of trustworthy AI; and
+- trustworthy AI education within the scope of MAS. 
 
 The workshop complements the main AAMAS program by allowing a more relaxed and in-depth discussion of MAS from a social perspective and has proven to be an event that encourages debate, and fosters collaboration among researchers in these topics.
 
