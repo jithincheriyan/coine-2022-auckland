@@ -8,7 +8,7 @@ COINE 2021 is co-located with the International Conference on Autonomous Agents 
 London, UK, 3-7 May, 2021
 (https://https://aamas2021.soton.ac.uk/)
 
-### *Submission deadline: 5th February, 2021 (more details below)*
+### *Updated Submission deadline: 26th February, 2021 (more details below)*
 
 ### Overview
 
@@ -37,12 +37,9 @@ COINE inherited COIN’s B-rating on the Computing Research and Education Associ
 
 
 ### Important Dates
-
-Note: These dates are subject to further updates.
-
-- Paper submission: February 5, 2021
-- Author notifications: March 15, 2021
-- Camera-ready deadline: March 24, 2021
+- Paper submission: February 26, 2021
+- Author notifications: March 31, 2021
+- Camera-ready deadline: April 16, 2021
 - Workshop: May 3 or 4, 2021
 
 
