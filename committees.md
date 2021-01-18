@@ -5,7 +5,7 @@ title: COINE
 
 ## Committees
 
-### COINE@AAMAS2020 Co-Chairs
+### COINE@AAMAS2021 Co-Chairs
 
 [Andreas Theodorou](mailto:andrea.theodorou@umu.se) (Umeå University, SE)  
 [Juan Carlos Nieves](mailto:jcnieves@umu.se)(Umeå University, SE)  
@@ -14,7 +14,7 @@ title: COINE
 ### Programme Committee
 
 TBA
-<!--
+<!---
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
 - Leonardo Rosa Amado (Pontifícia Universidade Católica do Rio Grande do Sul, BR)
 - Olivier Boissier (Mines Saint-Etienne, FR)
