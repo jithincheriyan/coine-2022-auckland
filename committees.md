@@ -13,29 +13,17 @@ title: COINE
 
 ### Programme Committee
 
-TBA
-<!---
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
-- Leonardo Rosa Amado (Pontifícia Universidade Católica do Rio Grande do Sul, BR)
-- Olivier Boissier (Mines Saint-Etienne, FR)
-- Frank Dignum (Umeå University, SE)
+- Virginia Dignum (Umeå University, SE)
 - Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
-- Amineh Ghorbani (TU Delft, NL)
-- Eric T. Matson (Purdue University, US)
-- Martin Neumann (Johannes Gutenberg-Universität Mainz, DE)
 - Pablo Noriega (IIIA-CSIC, ES)
-- Julian Padget (University of Bath, UK)
-- Jeremy Pitt (Imperial College London, UK)
-- M. Birna van Riemsdijk (University of Twente, NL)
-- Brian Scassellati (Yale, US)
-- Jaime Sichman (Universidade de São Paulo, BR)
-- Myrthe Tielman (TU Delft, NL)
-- Wamberto Vasconcelos (University of Aberdeen, UK)
 - Javier Vazquez-Salceda (Center for Intelligent Data Analysis and Artificial Intelligence, Universitat Politecnica de Catalunya-BarcelonaTech, ES)
-- Marina De Vos (University of Bath, UK)
 - George Vouros (University of Piraeus, GR)
--->
-
+- Luís Moniz Pereira (NOVA Laboratory for Computer Science and Informatics (NOVA LINCS), Universidade Nova de Lisboa, PT)
+- Stefania Costantini (Università dell'Aquila, IT)
+- Andrea Aler Tubella (Umeå University, SE)
+- Christopher	Frantz (Norwegian University of Science and Technology, NO)
+- Wamberto Vasconcelos (University of Aberdeen, UK)
 <!-- *Others to be confirmed* -->
 
 <!--
