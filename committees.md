@@ -24,6 +24,7 @@ title: COINE
 - Andrea Aler Tubella (Umeå University, SE)
 - Christopher	Frantz (Norwegian University of Science and Technology, NO)
 - Wamberto Vasconcelos (University of Aberdeen, UK)
+- Harko Verhagen (Stockholm University, SE)
 <!-- *Others to be confirmed* -->
 
 <!--
