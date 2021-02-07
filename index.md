@@ -24,10 +24,7 @@ This edition of COINE will be hosted by [AAMAS 2021](https://aamas2021.soton.ac.
 
 
 ## Important Dates
-
-Note: These dates are subject to further updates.
-
-- Paper submission (extended):5th February, 2021
-- Author notifications: 15th March, 2021
-- Camera-ready deadline: 24th April, 2021
-- Workshop: 3rd or 4th May, 2021
+- Paper submission: February 26, 2021
+- Author notifications: March 31, 2021
+- Camera-ready deadline: April 16, 2021
+- Workshop: May 3 or 4, 2021
