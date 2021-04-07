@@ -23,8 +23,8 @@ This workshop is an evolution of the COIN (Coordination, Organizations, Institut
 This edition of COINE will be hosted by [AAMAS 2021](https://aamas2021.soton.ac.uk/) and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Under its new COINE brand, this workshop will not only be of interest to its traditional sub-community of AAMAS participants (those researchers working on coordination, organisational, institutional and normative models and technologies for MAS), but also invites researchers investigating the growing field of ethical governance of MAS.
 
 
-## Important Dates
+## Important Dates (Updated)
 - Paper submission: February 26, 2021
-- Author notifications: March 31, 2021
+- Author notifications: April 17, 2021
 - Camera-ready deadline: April 16, 2021
 - Workshop: May 3 or 4, 2021
