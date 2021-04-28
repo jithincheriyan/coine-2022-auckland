@@ -3,11 +3,11 @@ layout: default
 title: COINE
 ---
 
-# Technical Programme
+# Schedule
 
-The workshop will be held on either the 3rd May 2021. A detailed schedule will follow.
+The workshop will be held on the 3rd May 2021. Due to the ongoing pandemic and measures taken by governments to halt the spread of COVID-19, the workshop may be held virtually.
 
-Due to the ongoing pandemic and measures taken by governments to halt the spread of COVID-19, the workshop may be held virtually.
+You can register for the workshop, for free, here: [https://aamas-ws-registration.paperform.co/](https://aamas-ws-registration.paperform.co/)
 
 ## Schedule
 
@@ -16,7 +16,7 @@ Due to the ongoing pandemic and measures taken by governments to halt the spread
 ### Morning Session
 09:00 – 09:15: Introductions to COINE 2021
 
-09:15 – 10:15: Keynote 1, Marija Slavkovik from University of Bergen.
+09:15 – 10:15: Keynote 1, Marija Slavkovik from the University of Bergen.
 
 10:15 - 10:30: Coffee Break 1
 
@@ -28,7 +28,7 @@ Due to the ongoing pandemic and measures taken by governments to halt the spread
 ### 12:00 – 15:00: Extended lunch break
 
 ### Afternoon Session
-15:00 – 16:00: Keynote 2 (TBC)
+15:00 – 16:00: Keynote 2, Julian Padget from the University of Bath.
 
 16:00 – 16:45 Session 2, 3 short presentations
 - Run-time Norms Synthesis in Multi-Objective Multi-Agent Systems by *Maha Riad* and *Fatemeh Golpayegani*
