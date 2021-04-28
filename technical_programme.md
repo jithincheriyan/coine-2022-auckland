@@ -5,12 +5,39 @@ title: COINE
 
 # Technical Programme
 
-The workshop will be held on either the 3rd or 4th May 2021. A detailed schedule will follow.
+The workshop will be held on either the 3rd May 2021. A detailed schedule will follow.
 
-Due to the ongoing pandemic and measures taken by governments to halt the spread of COVID-19, the workshop may be held virtually or in a hybrid model.  
+Due to the ongoing pandemic and measures taken by governments to halt the spread of COVID-19, the workshop may be held virtually.
 
 ## Schedule
 
-*Note: All links redirect to the external paper or presentation respectively. Use the Ctrl button while clicking the link to open new tabs instead.*
+<!--- *Note: All links redirect to the external paper or presentation respectively. Use the Ctrl button while clicking the link to open new tabs instead.* -->
 
-TBA
+### Morning Session
+09:00 – 09:15: Introductions to COINE 2021
+
+09:15 – 10:15: Keynote 1, Marija Slavkovik from University of Bergen.
+
+10:15 - 10:30: Coffee Break 1
+
+10:30 – 12:00: Session 1 with 3 full presentations
+- Collaborative Human-Agent Planning for Resilience by *Ronal Singh, Tim Miller*, and *Darryn Reid*	
+- Solving social dilemmas by reasoning about expectations by *Abira Sengupta, Stephen Cranefield*, and *Jeremy Pitt*
+- A Bayesian model of information cascade by *Sriashalya Srivathsan, Stephen Cranefield*, and *Jeremy Pitt*
+
+### 12:00 – 15:00: Extended lunch break
+
+### Afternoon Session
+15:00 – 16:00: Keynote 2 (TBC)
+
+16:00 – 16:45 Session 2, 3 short presentations
+- Run-time Norms Synthesis in Multi-Objective Multi-Agent Systems by *Maha Riad* and *Fatemeh Golpayegani*
+- Noe: Norms Emergence and Robustness Based on Emotions in Multiagent Systems by *Sz-Ting Tzeng, Nirav Ajmeri*, and *Munindar P. Singh*
+- Coupling purposes with status-functions in artificial institutions by *Rafhael Cunha, Jomi Hübner*, and *Maiquel de Brito*
+
+16:45 - 17:00: Coffee Break 2
+
+17:15 – 18:30: Session 2, 3 full presentations
+- A Framework for Automatic Monitoring of Norms that regulate Time Constrained Actions by *Nicoletta Fornara, Soheil Roshankish*, and *Marco Colombetti*
+- Interactions between social norms and incentive mechanisms in organizations by *Ravshanbek Khodzhimatov, Stephan Leitner,* and *Friederike Wall*
+- Learning for Detecting Norm Violation in Online Communities by *Thiago Freitas Dos Santos, Nardine Osman*, and *Marco Schorlemmer*
