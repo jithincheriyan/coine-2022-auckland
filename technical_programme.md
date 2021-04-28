@@ -13,6 +13,8 @@ You can register for the workshop, for free, here: [https://aamas-ws-registratio
 
 <!--- *Note: All links redirect to the external paper or presentation respectively. Use the Ctrl button while clicking the link to open new tabs instead.* -->
 
+**All times are reported in British Summer Time**
+
 ### Morning Session
 09:00 – 09:15: Introductions to COINE 2021
 
