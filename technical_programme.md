@@ -34,12 +34,13 @@ You can register for the workshop, for free, here: [https://aamas-ws-registratio
 
 16:00 – 16:45 Session 2, 3 short presentations
 - Run-time Norms Synthesis in Multi-Objective Multi-Agent Systems by *Maha Riad* and *Fatemeh Golpayegani*
-- [Noe: Norms Emergence and Robustness Based on Emotions in Multiagent Systems](https://github.com/ChristineTzeng/papers/blob/main/noe-COINE2021.pdf) by *Sz-Ting Tzeng, Nirav Ajmeri*, and *Munindar P. Singh*
+- [Noe: Norms Emergence and Robustness Based on Emotions in Multiagent Systems](http://arxiv.org/abs/2104.15034) by *Sz-Ting Tzeng, Nirav Ajmeri*, and *Munindar P. Singh*
 - Coupling purposes with status-functions in artificial institutions by *Rafhael Cunha, Jomi Hübner*, and *Maiquel de Brito*
 
 16:45 - 17:00: Coffee Break 2
 
-17:15 – 18:30: Session 2, 3 full presentations
+17:00 – 18:30: Session 2, 3 full presentations
 - [A Framework for Automatic Monitoring of Norms that regulate Time Constrained Actions](https://github.com/coin-workshop/coine-2021-london/blob/aa5f0c24bafc2503090be853f87ca35b4bcb3096/papers/Fornara_COINE2021.pdf) by *Nicoletta Fornara, Soheil Roshankish*, and *Marco Colombetti*
 - [Interactions between social norms and incentive mechanisms in organizations](https://arxiv.org/pdf/2102.12309.pdf) by *Ravshanbek Khodzhimatov, Stephan Leitner,* and *Friederike Wall*
-- Learning for Detecting Norm Violation in Online Communities by *Thiago Freitas Dos Santos, Nardine Osman*, and *Marco Schorlemmer*
+- [Learning for Detecting Norm Violation in Online Communities](
+https://arxiv.org/abs/2104.14911)*Thiago Freitas Dos Santos, Nardine Osman*, and *Marco Schorlemmer*
