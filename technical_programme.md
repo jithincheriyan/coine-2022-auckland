@@ -33,9 +33,9 @@ You can register for the workshop, for free, here: [https://aamas-ws-registratio
 15:00 – 16:00: Keynote 2, Julian Padget from the University of Bath.
 
 16:00 – 16:45 Session 2, 3 short presentations
-- Run-time Norms Synthesis in Multi-Objective Multi-Agent Systems by *Maha Riad* and *Fatemeh Golpayegani*
+- [Run-time Norms Synthesis in Multi-Objective Multi-Agent Systems](http://arxiv.org/abs/2105.00124) by *Maha Riad* and *Fatemeh Golpayegani*
 - [Noe: Norms Emergence and Robustness Based on Emotions in Multiagent Systems](http://arxiv.org/abs/2104.15034) by *Sz-Ting Tzeng, Nirav Ajmeri*, and *Munindar P. Singh*
-- Coupling purposes with status-functions in artificial institutions by *Rafhael Cunha, Jomi Hübner*, and *Maiquel de Brito*
+- [Coupling purposes with status-functions in artificial institutions](http://arxiv.org/abs/2105.00090) by *Rafhael Cunha, Jomi Hübner*, and *Maiquel de Brito*
 
 16:45 - 17:00: Coffee Break 2
 
