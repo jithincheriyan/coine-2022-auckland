@@ -5,7 +5,7 @@ title: COINE
 
 ## Call for Papers
 COINE 2022 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
-Auckland, UK, 9-13 May, 2021
+Auckland, UK, 9-13 May, 2022
 [https://aamas2022-conference.auckland.ac.nz/](https://aamas2022-conference.auckland.ac.nz/)
 
 ### Overview
