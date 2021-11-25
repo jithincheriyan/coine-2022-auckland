@@ -7,6 +7,6 @@ title: COINE
 
 For any questions about COINE 2021 @ AAMAS, please send an e-mail to
 
-[Andreas Theodorou](mailto:andreas.theodorou@umu.se) (Umeå University, SE)  
-[Juan Carlos Nieves](mailto:jcnieves@cs.umu.se)(Umeå University, SE)  
-[Marina De Vos](mailto:cssmdv@bath.ac.uk>) (University of Bath, UK)  
+[Nirav Ajmeri](mailto:nirav.ajmeri@bristol.ac.uk) (University of Bristol, UK)  
+[Andreasa Morris-Martin](mailto:alm32@bath.ac.uk)(University of Bath, UK)  
+[Tony Savarimuthu](mailto:tony.savarimuthu@otago.ac.nz) (University of Otago, NZ)  

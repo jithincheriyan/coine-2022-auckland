@@ -4,15 +4,13 @@ title: COINE
 ---
 
 ## Call for Papers
-COINE 2021 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
-London, UK, 3-7 May, 2021
-(https://https://aamas2021.soton.ac.uk/)
-
-### *Updated Submission deadline: 26th February, 2021 (more details below)*
+COINE 2022 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS),
+Auckland, UK, 9-13 May, 2021
+(https://aamas2022-conference.auckland.ac.nz/)
 
 ### Overview
 
-The pervasiveness of "open systems" raises a range of challenges and opportunities for technologies in the area of autonomous agents and multi-agent systems. However, achieving and maintaining a "good" society is difficult to achieve as the participating entities (including human users), their modes of interaction or the intended purpose of the system may change over time. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the society. As a further trajectory of influence, coordination techniques such as distributed ledger technology can increase the autonomy and complexity of these open systems as a whole and challenge their governance. There is therefore a need for tools and techniques for articulating interactions in order to make the system more effective in attaining collective goals, more certain for participants or more predictable.
+The pervasiveness of "open systems" raises a range of challenges and opportunities for technologies in the area of autonomous agents and multi-agent systems. However, achieving and maintaining a "good" society is difficult as the participating entities (including human users), their modes of interaction or the intended purpose of the system may change over time. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the society. As a further trajectory of influence, coordination techniques such as distributed ledger technology can increase the autonomy and complexity of these open systems as a whole and challenge their governance. There is therefore a need for tools and techniques for articulating interactions in order to make the system more effective in attaining collective goals, more certain for participants or more predictable.
 
 Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. This workshop is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (12 times), IJCAI, AAAI and ECAI since 2006 (see [Workshop Series Website](http://www2.pcs.usp.br/~coin)), and produced 12 volumes of post-proceedings in Springer's Lecture Notes in Artificial Intelligence.
 
@@ -37,15 +35,15 @@ COINE inherited COIN’s B-rating on the Computing Research and Education Associ
 
 
 ### Important Dates (Updated)
-- Paper submission: February 26, 2021
-- Author notifications: April 17, 2021
-- Camera-ready deadline: April 30, 2021
-- Workshop: May 3 or 4, 2021
+- Paper submission: January 30, 2022
+- Author notifications: February 27, 2022
+- Camera-ready deadline: March 4, 2022
+- Workshop: May 9 or 10, 2022
 
 
 ### Instructions for Authors
 
-For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. The length of each paper including figures and references may not exceed 16 pages. All papers must be written in English and submitted in PDF format. For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2021](https://easychair.org/conferences/?conf=coine2021)
+For preparation of papers please follow the instructions for authors available at the Springer LNCS Web page. The length of each paper including figures and references may not exceed 16 pages. All papers must be written in English and submitted in PDF format. For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2022](https://easychair.org/conferences/?conf=coine2022)
 
 Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. 
 

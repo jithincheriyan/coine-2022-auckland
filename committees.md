@@ -7,12 +7,15 @@ title: COINE
 
 ### COINE@AAMAS2021 Co-Chairs
 
-[Andreas Theodorou](mailto:andrea.theodorou@umu.se) (Umeå University, SE)  
-[Juan Carlos Nieves](mailto:jcnieves@umu.se)(Umeå University, SE)  
-[Marina De Vos](mailto:cssmdv@bath.ac.uk>) (University of Bath, UK)  
+[Nirav Ajmeri](mailto:nirav.ajmeri@bristol.ac.uk) (University of Bristol, UK)  
+[Andreasa Morris-Martin](mailto:alm32@bath.ac.uk)(University of Bath, UK)  
+[Tony Savarimuthu](mailto:tony.savarimuthu@otago.ac.nz) (University of Otago, NZ)   
 
 ### Programme Committee
 
+TBA 
+
+<!--
 - Huib Aldewereld (HU University of Applied Sciences Utrecht, NL)
 - Virginia Dignum (Umeå University, SE)
 - Nicoletta Fornara (Università della Svizzera italiana (USI), CH)
@@ -25,6 +28,8 @@ title: COINE
 - Christopher	Frantz (Norwegian University of Science and Technology, NO)
 - Wamberto Vasconcelos (University of Aberdeen, UK)
 - Harko Verhagen (Stockholm University, SE)
+-->
+
 <!-- *Others to be confirmed* -->
 
 <!--
