@@ -5,7 +5,7 @@ title: COINE
 
 ## Committees
 
-### COINE@AAMAS2021 Co-Chairs
+### COINE@AAMAS2022 Co-Chairs
 
 [Nirav Ajmeri](mailto:nirav.ajmeri@bristol.ac.uk) (University of Bristol, UK)  
 [Andreasa Morris-Martin](mailto:alm32@bath.ac.uk)(University of Bath, UK)  
