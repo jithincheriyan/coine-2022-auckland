@@ -48,7 +48,7 @@ We solicit three types of papers:
 - Short research papers (10 pages) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
 - Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2022 (see [https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/](https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/)), focussing on the COINE topics
 
-The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format.
+The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. Information about the paper type should be included by replacing the author name and address sections in the paper. For example, for full paper the entry should read as – Paper type: Full.
 
 For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2022](https://easychair.org/conferences/?conf=coine2022)
 
