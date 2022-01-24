@@ -98,15 +98,17 @@ Instructions for Authors
 For preparation of papers please follow the instructions for authors 
 available at the Springer LNCS Web page. 
 
-We solicit three types of papers:
+We solicit three types of papers in the LNCS format (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines):
 • Full research papers (16 pages)
 • Short research papers (10 pages) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
 • Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2022 (see https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/), focussing on the COINE topics
 
-The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format.
+The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).
 
 For submission of papers, please use the EasyChair site at:
 https://easychair.org/conferences/?conf=coine2022
+
+Submitted papers will be reviewed on a "single-blind" basis by at least two reviewers.
 
 Submission of a paper should be regarded as an undertaking that, should 
 the paper be accepted, at least one of the authors will attend the 
@@ -124,6 +126,24 @@ post-proceedings.
 -------------------------------------------------------------------------------------
 COINE 2022  CO-CHAIRS
 -------------------------------------------------------------------------------------
-Nirav Ajmeri (University of Bristol, UK)
-Andreasa Morris-Martin (University of Bath, UK)
-Tony Savarimuthu (University of Otago, NZ)
+- Nirav Ajmeri (University of Bristol, UK)
+- Andreasa Morris-Martin (University of Bath, UK)
+- Tony Savarimuthu (University of Otago, NZ)
+
+Programme Committee
+-------------------
+- Huib Aldewereld (HU University of Applied Sciences, NL)
+- Stefania Costantini (University of L'Aquila, IT)
+- Nicoletta Fornara (Università della Svizzera italiana, Switzerland)
+- Benjamin Kuipers (University of Michigan, US)
+- Maite Lopez-Sanchez (University of Barcelona, ES)
+- Eric Matson (Purdue University, US)
+- Juan Carlos Nieves (Umeå University, SE)
+- Pablo Noriega (IIIA-CSIC, ES)
+- Julian Padget (University of Bath, UK)
+- Luís Moniz Pereira (Universidade Nova de Lisboa, PT)
+- Jaime Simão Sichman (Universidade de São Paulo, BR)
+- Birna van Riemsdijk (University of Twente, NL)
+- Herko Verhagen (Stockholm University, SE)
+- Marina De Vos (University of Bath, UK)
+- Pınar Yolum (Utrecht University, NL)
