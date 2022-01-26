@@ -15,8 +15,8 @@ This workshop is an evolution of the COIN (Coordination, Organizations, Institut
 This edition of COINE will be hosted by [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz/) and will complement the main conference program by allowing a more relaxed and in-depth discussion of MAS from a social perspective. Under its new COINE brand, this workshop will not only be of interest to its traditional sub-community of AAMAS participants (those researchers working on coordination, organisational, institutional and normative models and technologies for MAS), but also invites researchers investigating the growing field of ethical governance of MAS.
 
 
-## Important Dates
-- Paper submission: January 30, 2022
-- Author notifications: February 27, 2022
-- Camera-ready deadline: March 4, 2022
+### Important Dates
+- Paper submission: ~~January 30, 2022~~ February 13, 2022
+- Author notifications: ~~February 27, 2022~~ March 13, 2022
+- Camera-ready deadline: ~~March 4, 2022~~ March 20, 2022
 - Workshop: May 9 or 10, 2022
