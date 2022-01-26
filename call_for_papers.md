@@ -32,7 +32,7 @@ To leverage a broader understanding on how COINE-related themes are employed in 
 COINE inherited COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list ([http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/)). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
 
 
-### Important Dates
+### Important Dates (Updated)
 - Paper submission: ~~January 30, 2022~~ February 13, 2022
 - Author notifications: ~~February 27, 2022~~ March 13, 2022
 - Camera-ready deadline: ~~March 4, 2022~~ March 20, 2022
