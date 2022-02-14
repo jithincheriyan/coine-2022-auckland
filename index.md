@@ -2,7 +2,7 @@
 layout: default
 title: COINE
 ---
-:boom: __*<span style="color:blue">Paper submission deadline extended to February 20, 2022</span>.*__
+💥 __*<span style="color:blue">Paper submission deadline extended to February 20, 2022</span>*__
 
 ## Objectives
 
