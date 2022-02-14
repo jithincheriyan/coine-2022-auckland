@@ -2,6 +2,7 @@
 layout: default
 title: COINE
 ---
+:boom: __*<span style="color:blue">Paper submission deadline extended to February 20, 2022</span>.*__
 
 ## Call for Papers
 COINE 2022 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Auckland, New Zealand, 9-13 May, 2022 [https://aamas2022-conference.auckland.ac.nz/](https://aamas2022-conference.auckland.ac.nz/)
@@ -33,7 +34,7 @@ COINE inherited COIN's B-rating on the Computing Research and Education Associat
 
 
 ### Important Dates (Updated)
-- Paper submission: ~~January 30, 2022~~ February 13, 2022
+- Paper submission: ~~January 30, 2022~~ ~~February 13, 2022~~ February 20, 2022 💥
 - Author notifications: ~~February 27, 2022~~ March 13, 2022
 - Camera-ready deadline: ~~March 4, 2022~~ March 20, 2022
 - Workshop: May 9 or 10, 2022
