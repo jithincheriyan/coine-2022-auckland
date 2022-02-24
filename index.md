@@ -2,7 +2,7 @@
 layout: default
 title: COINE
 ---
-💥 __*<span style="color:blue">Paper submission deadline extended to February 20, 2022</span>*__
+💥 __*<span style="color:blue">Paper submission deadline extended to February 20, 2022 (Closed)</span>*__
 
 ## Objectives
 
@@ -16,7 +16,7 @@ This edition of COINE will be hosted by [AAMAS 2022](https://aamas2022-conferenc
 
 
 ### Important Dates (Updated)
-- Paper submission: ~~January 30, 2022~~ ~~February 13, 2022~~ February 20, 2022 💥
-- Author notifications: ~~February 27, 2022~~ March 13, 2022
-- Camera-ready deadline: ~~March 4, 2022~~ March 20, 2022
+- Paper submission (Closed): ~~January 30, 2022~~ ~~February 13, 2022~~ February 20, 2022
+- Author notifications: ~~February 27, 2022~~ March 25, 2022
+- Camera-ready deadline: ~~March 4, 2022~~ April 1, 2022
 - Workshop: May 9 or 10, 2022
