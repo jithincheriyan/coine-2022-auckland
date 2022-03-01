@@ -14,8 +14,11 @@ title: COINE
 ### Programme Committee
 
 - Huib Aldewereld (HU University of Applied Sciences, NL)
+- Natasha Alechina (Utrecht University, NL)
 - Stefania Costantini (University of L'Aquila, IT)
-- Nicoletta Fornara (Università della Svizzera italiana, Switzerland)
+- Marina De Vos (University of Bath, UK)
+- Nicoletta Fornara (Università della Svizzera italiana, CH)
+- Christopher Frantz (Norwegian University of Science and Technology, NO)
 - Benjamin Kuipers (University of Michigan, US)
 - Maite Lopez-Sanchez (University of Barcelona, ES)
 - Eric Matson (Purdue University, US)
@@ -24,7 +27,6 @@ title: COINE
 - Julian Padget (University of Bath, UK)
 - Luís Moniz Pereira (Universidade Nova de Lisboa, PT)
 - Jaime Simão Sichman (Universidade de São Paulo, BR)
-- Birna van Riemsdijk (University of Twente, NL)
+- M. Birna van Riemsdijk (University of Twente, NL)
 - Herko Verhagen (Stockholm University, SE)
-- Marina De Vos (University of Bath, UK)
 - Pınar Yolum (Utrecht University, NL)
