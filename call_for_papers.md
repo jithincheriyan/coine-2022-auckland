@@ -61,7 +61,7 @@ Submission of a paper should be regarded as an undertaking that, should the pape
 
 Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2022 registrants in electronic form.
 
-As with previous COIN(E) workshops, COINE will publish post-proceedings in Springer's LNCS series. Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings.
+As with previous COIN(E) workshops, COINE intends to publish post-proceedings in Springer's LNCS series (pending confirmation). Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings.
 
 Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
 
