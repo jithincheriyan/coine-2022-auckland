@@ -3,6 +3,7 @@ layout: default
 title: COINE
 ---
 💥 __*<span style="color:blue">Notifications sent out on March 28, 2022 </span>*__
+
 💥 __*<span style="color:blue">Paper submission deadline extended to February 20, 2022 (Closed)</span>*__
 
 ## Objectives
