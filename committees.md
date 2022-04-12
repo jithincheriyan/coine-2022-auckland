@@ -28,5 +28,5 @@ title: COINE
 - Luís Moniz Pereira (Universidade Nova de Lisboa, PT)
 - Jaime Simão Sichman (Universidade de São Paulo, BR)
 - M. Birna van Riemsdijk (University of Twente, NL)
-- Herko Verhagen (Stockholm University, SE)
+- Harko Verhagen (Stockholm University, SE)
 - Pınar Yolum (Utrecht University, NL)
