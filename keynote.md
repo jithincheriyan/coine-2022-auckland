@@ -5,8 +5,12 @@ title: COINE
 
 # Keynote Speaker
 
+
+
 ## Munindar P. Singh
 Alumni Distinguished Graduate Professor, Department of Computer Science, North Carolina State University, United States
+
+![Munindar P. Singh](images/Munindar-Singh-headshot.jpg){width=240px}
 
 ### Consent as a Foundation for Responsible Autonomy
 
