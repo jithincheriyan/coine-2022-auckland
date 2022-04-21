@@ -37,7 +37,7 @@ COINE inherited COIN's B-rating on the Computing Research and Education Associat
 - Paper submission (Closed): ~~January 30, 2022~~ ~~February 13, 2022~~ February 20, 2022
 - Author notifications: ~~February 27, 2022~~ March 28, 2022
 - Camera-ready deadline: ~~March 4, 2022~~ April 7, 2022
-- Workshop: May 9 or 10, 2022
+- Workshop: Workshop: May 10, 2022, 05:00&ndash;09:30 UTC+12 (Auckland time)
 
 
 ### Instructions for Authors

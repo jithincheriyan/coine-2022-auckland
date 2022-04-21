@@ -5,7 +5,7 @@ title: COINE
 
 # Schedule
 
-The workshop will be held virtually on 10 May 2022, 05:00--09:30 UTC+12, Auckland time (9 May 2022, 19:00 -- 23:30 UTC+2, Paris time). [Click here to find the corresponding time at your location](https://www.timeanddate.com/worldclock/converter.html?iso=20220509T170000&p1=22&p2=195&p3=136&p4=233&p5=179)
+The workshop will be held virtually on 10 May 2022, 05:00&ndash;09:30 UTC+12, Auckland time (9 May 2022, 19:00&ndash;23:30 UTC+2, Paris time). [Click here to find the corresponding time at your location](https://www.timeanddate.com/worldclock/converter.html?iso=20220509T170000&p1=22&p2=195&p3=136&p4=233&p5=179)
 
 Joining the workshop is free. We will soon release the final schedule and conference joining detail. Please find the list of accepted papers below. 
 
