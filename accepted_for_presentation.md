@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-## Papers accepted for presentation
+# Papers Accepted for Presentation
 
 - Jonathan Kwik, Tomasz Zurek and Tom van Engers. Designing International Humanitarian Law into military autonomous devices [\[PDF\]]({{ site.path }}/papers/paper-1.pdf)
 - Michael Oesterle, Christian Bartelt, Stefan Lüdtke and Heiner Stuckenschmidt. Self-Learning Governance of Black-Box Multi-Agent Systems [\[PDF\]]({{ site.path }}/papers/paper-2.pdf)
