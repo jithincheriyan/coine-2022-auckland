@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-## Contact
+# Contact
 
 For any questions about COINE 2022 @ AAMAS, please send an e-mail to
 
