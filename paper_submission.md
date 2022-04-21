@@ -3,7 +3,7 @@ layout: default
 title: COINE
 ---
 
-## Paper Submission
+# Paper Submission
 
 ### Instructions for Authors
 
