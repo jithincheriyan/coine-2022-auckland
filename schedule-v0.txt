@@ -1,0 +1,31 @@
+1800	Welcome (All)
+
+Session 1 		(Nirav)
+
+1805	Paper 12	Pablo Noriega, Harko Verhagen, Julian Padget and Mark d'Inverno (Design heuristics for ethical online institutions (Full))
+1820	Paper 7	Scott Matthew, Dubied Mathieu and Jeremy Pitt	(Social Motives and Social Contracts in Cooperative Survival Games (Full))
+1835	Paper 2	Michael Oesterle, Christian Bartelt, Stefan Lüdtke and Heiner Stuckenschmidt (Self-Learning Governance of Black-Box Multi-Agent Systems (Full))
+1850	Paper 5	Rafhael Cunha, Jomi Hübner and Maiquel de Brito (Supporting the Reasoning about Environmental Consequences of Institutional Actions (Full))
+1905	Paper 3	Emre Erdogan, Frank Dignum, Rineke Verbrugge and Pinar Yolum (Computational Theory of Mind for Human-Agent Coordination (Full))
+1920	Paper 9	Sami Abuhaimed and Sandip Sen (Effective Task Allocation in Ad Hoc Human-Agent Teams (Full))
+
+1935	BREAK		
+
+1945	Keynote (Chair: Tony) 		Munindar P. Singh	(Consent as a Foundation for Responsible Autonomy)
+
+Paper Session 2 	(Tony)
+
+2030	Paper 8	Davide Dell'Anna, Natasha Alechina, Fabiano Dalpiaz, Mehdi Dastani, Martin Löffler and Brian Logan (The Complexity of Norm Synthesis and Revision (Full))
+2045	Paper 13	Leila Methnani, Andreas Antoniades and Andreas Theodorou (Embracing AWKWARD! Real-time Adjustment of Reactive Planning Using Social Norms (Full))
+
+2100	BREAK		
+
+Session 3 		(Andreasa)
+2110	Paper 1		Jonathan Kwik, Tomasz Zurek and Tom van Engers (Designing International Humanitarian Law into military autonomous devices (Full))
+2125	Paper 6		Asimina Mertzani, Jeremy Pitt, Andrzej Nowak and Thomasz Michalak (Epistemic Diversity and Explanatory Adequacy in Distributed Information Processing (Full))
+2140	Paper 15		Sz-Ting Tzeng, Nirav Ajmeri and Munindar P. Singh (Fleur: Social Values Orientation for Robust Norm Emergence (Full))
+2150	Paper 11-short		Peter Fratrič, Giovanni Sileno, Tom Van Engers and Sander Klous (Computational Discovery of Transaction-Based Financial Crime via Grammatical Evolution: the Case of Ponzi Schemes (Short))
+2200	Paper 4-short		Rafael Molinari Cheang, Anarosa Alves Franco Brandão and Jaime Simão Sichman (Centralized norm enforcement in mixed-motive multiagent reinforcement learning (Short))
+2210	Paper 14-short		Sriashalya Srivathsan, Stephen Cranefield and Jeremy Pitt (Reasoning about collective action in Markov Logic: a case study from ancient Athens (Short))
+
+2220	Wrapup		(All)
