@@ -23,4 +23,4 @@ This edition of COINE will be hosted by [AAMAS 2022](https://aamas2022-conferenc
 - Paper submission (Closed): ~~January 30, 2022~~ ~~February 13, 2022~~ February 20, 2022
 - Author notifications: ~~February 27, 2022~~ March 28, 2022
 - Camera-ready deadline: ~~March 4, 2022~~ April 7, 2022
-- Workshop: May 10, 2022, 05:00&ndash;09:30 UTC+12 (Auckland time)
+- Workshop: [May 10, 2022, 05:00&ndash;09:30 UTC+12 (Auckland time)](https://www.timeanddate.com/worldclock/converter.html?iso=20220509T170000&p1=22&p2=195&p3=136&p4=233&p5=179)
