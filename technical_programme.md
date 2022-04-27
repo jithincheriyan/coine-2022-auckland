@@ -38,7 +38,7 @@ Sami Abuhaimed and Sandip Sen
 
 ### Session 2 (Keynote followed by one full and one short paper presentations)
 
-**06:45 &ndash; 07:30 Keynote** by Munindar P. Singh from North Carolina State University <br/>Consent as a Foundation for Responsible Autonomy]({{ site.path }}/keynote.html)
+**06:45 &ndash; 07:30 Keynote** by Munindar P. Singh from North Carolina State University <br/>[Consent as a Foundation for Responsible Autonomy]({{ site.path }}/keynote.html)
 
 **07:30 &ndash; 07:55 Presentation Slot 2**
 
