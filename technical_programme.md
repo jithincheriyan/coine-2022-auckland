@@ -13,7 +13,7 @@ Joining the workshop is free. We will be using Zoom. We will post the conference
 
 **05:00 &ndash; 05:05 Welcome**
 
-**05:05 &ndash; 06:35 Presentation Slot 1**
+**05:05 &ndash; 06:35 Presentation Slot 1** (Chair: Nirav Ajmeri)
 
 - [Design heuristics for ethical online institutions (Full)]({{ site.path }}/papers/paper-12.pdf) <br/>
 Pablo Noriega, Harko Verhagen, Julian Padget and Mark d'Inverno
@@ -38,9 +38,9 @@ Sami Abuhaimed and Sandip Sen
 
 ### Session 2 (Keynote followed by one full and one short paper presentations)
 
-**06:45 &ndash; 07:30 Keynote** by Munindar P. Singh from North Carolina State University <br/>[Consent as a Foundation for Responsible Autonomy]({{ site.path }}/keynote.html)
+**06:45 &ndash; 07:30 Keynote** by Munindar P. Singh from North Carolina State University <br/>[Consent as a Foundation for Responsible Autonomy]({{ site.path }}/keynote.html) (Chair: Tony Savarimuthu)
 
-**07:30 &ndash; 07:55 Presentation Slot 2**
+**07:30 &ndash; 07:55 Presentation Slot 2** (Chair: Tony Savarimuthu)
 
 - [The Complexity of Norm Synthesis and Revision (Full)]({{ site.path }}/papers/paper-8.pdf) <br/>
 Davide Dell'Anna, Natasha Alechina, Fabiano Dalpiaz, Mehdi Dastani, Martin Löffler and Brian Logan
@@ -53,7 +53,7 @@ Rafael Molinari Cheang, Anarosa Alves Franco Brandão and Jaime Simão Sichman
 
 ### Session 3 (Four full and two short paper presentations followed by wrap up)
 
-**08:05 &ndash; 09:25 Presentation Slot 3**
+**08:05 &ndash; 09:25 Presentation Slot 3** (Chair: Andreasa Morris-Martin)
 
 - [Designing International Humanitarian Law into military autonomous devices (Full)]({{ site.path }}/papers/paper-1.pdf) <br/>
 Jonathan Kwik, Tomasz Zurek and Tom van Engers
