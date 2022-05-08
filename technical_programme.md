@@ -11,9 +11,9 @@ Joining the workshop is free. We will be using Zoom. [Click here](https://bristo
 
 ### Session 1 (Welcome followed by six full paper presentations)
 
-[**05:00 &ndash; 05:05 UTC+12 Welcome**](# "1900 Paris; 1800 London; 1300 New York")
+[**05:00 &ndash; 05:05 UTC+12**](# "1900 Paris; 1800 London; 1300 New York") **Welcome**
 
-[**05:05 &ndash; 06:35 UTC+12 Presentation Slot 1**](# "1905 Paris; 1805 London; 1305 New York") (Chair: Nirav Ajmeri)
+[**05:05 &ndash; 06:35 UTC+12**](# "1905 Paris; 1805 London; 1305 New York") **Presentation Slot 1** (Chair: Nirav Ajmeri)
 
 - [Design heuristics for ethical online institutions (Full)]({{ site.path }}/papers/paper-12.pdf) <br/>
 Pablo Noriega, Harko Verhagen, Julian Padget and Mark d'Inverno
@@ -34,13 +34,13 @@ Emre Erdogan, Frank Dignum, Rineke Verbrugge and Pinar Yolum
 Sami Abuhaimed and Sandip Sen
 
 
-[**06:35 &ndash; 06:45 UTC+12 Short Break**](# "2035 Paris; 1935 London; 1435 New York")
+[**06:35 &ndash; 06:45 UTC+12**](# "2035 Paris; 1935 London; 1435 New York") **Short Break**
 
 ### Session 2 (Keynote followed by one full and one short paper presentations)
 
-[**06:45 &ndash; 07:30 UTC+12 Keynote**](# "2045 Paris; 1945 London; 1445 New York") by Munindar P. Singh from North Carolina State University <br/>[Consent as a Foundation for Responsible Autonomy]({{ site.path }}/keynote.html) (Chair: Tony Savarimuthu)
+[**06:45 &ndash; 07:30 UTC+12**](# "2045 Paris; 1945 London; 1445 New York") **Keynote** by Munindar P. Singh from North Carolina State University <br/>[Consent as a Foundation for Responsible Autonomy]({{ site.path }}/keynote.html) (Chair: Tony Savarimuthu)
 
-[**07:30 &ndash; 07:55 UTC+12 Presentation Slot 2**](# "2130 Paris; 2030 London; 1530 New York") (Chair: Tony Savarimuthu)
+[**07:30 &ndash; 07:55 UTC+12**](# "2130 Paris; 2030 London; 1530 New York") **Presentation Slot 2** (Chair: Tony Savarimuthu)
 
 - [The Complexity of Norm Synthesis and Revision (Full)]({{ site.path }}/papers/paper-8.pdf) <br/>
 Davide Dell'Anna, Natasha Alechina, Fabiano Dalpiaz, Mehdi Dastani, Martin Löffler and Brian Logan
@@ -49,11 +49,11 @@ Davide Dell'Anna, Natasha Alechina, Fabiano Dalpiaz, Mehdi Dastani, Martin Löff
 Rafael Molinari Cheang, Anarosa Alves Franco Brandão and Jaime Simão Sichman
 
 
-[**07:55 &ndash; 08:05 UTC+12 Short Break**](# "2155 Paris; 2055 London; 1555 New York")
+[**07:55 &ndash; 08:05 UTC+12**](# "2155 Paris; 2055 London; 1555 New York") **Short Break**
 
 ### Session 3 (Four full and two short paper presentations followed by wrap up)
 
-[**08:05 &ndash; 09:25 UTC+12 Presentation Slot 3**](# "2205 Paris; 2105 London; 1605 New York") (Chair: Andreasa Morris-Martin)
+[**08:05 &ndash; 09:25 UTC+12**](# "2205 Paris; 2105 London; 1605 New York") **Presentation Slot 3** (Chair: Andreasa Morris-Martin)
 
 - [Designing International Humanitarian Law into military autonomous devices (Full)]({{ site.path }}/papers/paper-1.pdf) <br/>
 Jonathan Kwik, Tomasz Zurek and Tom van Engers
@@ -74,4 +74,4 @@ Peter Fratrič, Giovanni Sileno, Tom Van Engers and Sander Klous
 Sriashalya Srivathsan, Stephen Cranefield and Jeremy Pitt
 
 
-[**09:25 &ndash; 09:30 UTC+12 Wrap Up**](# "2325 Paris; 2225 London; 1725 New York")
+[**09:25 &ndash; 09:30 UTC+12**](# "2325 Paris; 2225 London; 1725 New York") **Wrap Up**
