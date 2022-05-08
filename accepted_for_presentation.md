@@ -11,7 +11,7 @@ title: COINE
 - Rafael Molinari Cheang, Anarosa Alves Franco Brandão and Jaime Simão Sichman. Centralized Norm Enforcement in Mixed-Motive Multiagent Reinforcement Learning [\[PDF\]]({{ site.path }}/papers/paper-4.pdf)
 - Rafhael Cunha, Jomi Hübner and Maiquel de Brito. Supporting the Reasoning about Environmental Consequences of Institutional Actions [\[PDF\]]({{ site.path }}/papers/paper-5.pdf)
 - Asimina Mertzani, Jeremy Pitt, Andrzej Nowak and Thomasz Michalak. Epistemic Diversity and Explanatory Adequacy in Distributed Information Processing [\[PDF\]]({{ site.path }}/papers/paper-6.pdf)
-- Scott Matthew, Dubied Mathieu and Jeremy Pitt. Social Motives and Social Contracts in Cooperative Survival Games [\[PDF\]]({{ site.path }}/papers/paper-7.pdf)
+- Matthew Scott, Mathieu Dubied and Jeremy Pitt. Social Motives and Social Contracts in Cooperative Survival Games [\[PDF\]]({{ site.path }}/papers/paper-7.pdf)
 - Davide Dell'Anna, Natasha Alechina, Fabiano Dalpiaz, Mehdi Dastani, Martin Löffler and Brian Logan. The Complexity of Norm Synthesis and Revision [\[PDF\]]({{ site.path }}/papers/paper-8.pdf)
 - Sami Abuhaimed and Sandip Sen. Effective Task Allocation in Ad Hoc Human-Agent Teams [\[PDF\]]({{ site.path }}/papers/paper-9.pdf)
 - Peter Fratrič, Giovanni Sileno, Tom Van Engers and Sander Klous. Computational Discovery of Transaction-Based Financial Crime via Grammatical Evolution: the Case of Ponzi Schemes [\[PDF\]]({{ site.path }}/papers/paper-11.pdf)
