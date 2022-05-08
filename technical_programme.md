@@ -19,7 +19,7 @@ Joining the workshop is free. We will be using Zoom. [Click here](https://bristo
 Pablo Noriega, Harko Verhagen, Julian Padget and Mark d'Inverno
 
 - [Social Motives and Social Contracts in Cooperative Survival Games (Full)]({{ site.path }}/papers/paper-7.pdf) <br/>
-Scott Matthew, Dubied Mathieu and Jeremy Pitt
+Matthew Scott, Mathieu Dubied and Jeremy Pitt
 
 - [Self-Learning Governance of Black-Box Multi-Agent Systems (Full)]({{ site.path }}/papers/paper-2.pdf) <br/>
 Michael Oesterle, Christian Bartelt, Stefan Lüdtke and Heiner Stuckenschmidt
