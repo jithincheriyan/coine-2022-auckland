@@ -3,37 +3,32 @@ CALL FOR PAPERS
 ************************************************************************************
 International Workshop on Coordination, Organizations, Institutions, 
 Norms and Ethics for Governance of Multi-Agent Systems (COINE), 
-co-located with AAMAS 2022
+co-located with AAMAS 2023
 ************************************************************************************
 
-COINE 2022 is co-located with the International Conference on Autonomous Agents and 
-Multiagent Systems (AAMAS), Auckland, New Zealand, 9-13 May, 2022 (https://aamas2022-conference.auckland.ac.nz/)
+COINE 2023 is co-located with the International Conference on Autonomous Agents and
+Multiagent Systems (AAMAS), London, United Kingdom, 29 May-2 June 2023(https://aamas2023.soton.ac.uk/)
 
-https://coin-workshop.github.io/coine-2022-auckland
+https://coin-workshop.github.io/coine-2023-london
 -------------------------------------------------------------------------------------
 Overview
 -------------------------------------------------------------------------------------
+The pervasiveness of "open systems" raises a range of challenges and
+opportunities for technologies in the area of autonomous agents and
+multi-agent systems. However, achieving and maintaining a "good" society
+is difficult because the autonomy of the agents (including human
+participants) can work against the effectiveness of the society.
+The goal of the workshop is to bring together researchers in autonomous
+agents and multi-agent systems working on the scientific and technological
+aspects of social coordination, organizational theory, normative MAS,
+artificial or electronic institutions, norm/policy-aware and ethical agents.
 
-The pervasiveness of “open systems” raises a range of challenges and 
-opportunities for technologies in the area of autonomous agents and 
-multi-agent systems. However, achieving and maintaining a “good” society 
-is difficult to achieve as the participating entities (including human 
-users), their modes of interaction or the intended purpose of the system 
-may change over time. Moreover, in the case of open multi-agent systems, 
-the autonomy of the agents can work against the effectiveness of the 
-society. As a further trajectory of influence, coordination techniques 
-such as distributed ledger technology can increase the autonomy and 
-complexity of these open systems as a whole and challenge their 
-governance. There is therefore a need for tools and techniques for 
-articulating interactions in order to make the system more effective in 
-attaining collective goals, more certain for participants or more 
-predictable.
 
 Coordination, organizations, institutions, norms and ethics are five key 
 governance elements for the regulation of open multi-agent systems. This 
 workshop is an evolution of the COIN (Coordination, Organizations, 
 Institutions and Norms in Agent Systems) workshop series that ran at 
-various conferences including AAMAS (12 times), IJCAI, AAAI and ECAI 
+various conferences including AAMAS (13 times), IJCAI, AAAI and ECAI
 since 2006 (see Workshop Series Website), and produced 13 volumes of 
 post-proceedings in Springer’s Lecture Notes in Artificial Intelligence.
 
@@ -87,10 +82,10 @@ Important Dates
 -------------------------------------------------------------------------------------
 IMPORTANT DATES (Updated)
 -------------------------------------------------------------------------------------
-Paper submission: February 13, 2022
-Author notifications: March 13, 2022
-Camera-ready deadline: March 20, 2022
-Workshop: May 9 or 10, 2022
+Paper submission: January 30, 2023
+Author notifications: March 13, 2023
+Camera-ready deadline: April 3, 2023
+Workshop: To be announced soon
 -------------------------------------------------------------------------------------
 Instructions for Authors
 -------------------------------------------------------------------------------------
@@ -101,12 +96,12 @@ available at the Springer LNCS Web page.
 We solicit three types of papers in the LNCS format (https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines):
 • Full research papers (16 pages)
 • Short research papers (10 pages) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
-• Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2022 (see https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/), focussing on the COINE topics
+• Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2023 (see https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/), focussing on the COINE topics
 
 The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).
 
 For submission of papers, please use the EasyChair site at:
-https://easychair.org/conferences/?conf=coine2022
+~~https://easychair.org/conferences/?conf=coine2022~~
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two reviewers.
 
@@ -117,18 +112,19 @@ workshop to present the work.
 Proceedings
 -----------
 Preliminary proceedings will be available before the conference. They 
-will also be distributed to AAMAS 2022 registrants in electronic form.
+will also be distributed to AAMAS 2023 registrants in electronic form.
 
 As with previous COIN(E) workshops, COINE will publish post-proceedings 
 in Springer’s LNCS series. Authors will be invited to submit revised and 
 extended versions of their paper for consideration in these 
 post-proceedings.
 -------------------------------------------------------------------------------------
-COINE 2022  CO-CHAIRS
+COINE 2023  CO-CHAIRS
 -------------------------------------------------------------------------------------
-- Nirav Ajmeri (University of Bristol, UK)
-- Andreasa Morris-Martin (University of Bath, UK)
-- Tony Savarimuthu (University of Otago, NZ)
+- [Jithin Cheriyan](mailto:jithin.cheriyan@postgrad.otago.ac.nz) (University of Otago, NZ)
+- [Nicoletta Fornara](mailto:nicoletta.fornara@usi.ch) (Università della Svizzera italiana, Switzerland)
+- [Asimina Mertzani](mailto:asimina.mertzani20@imperial.ac.uk) (Imperial College of London, UK)
+
 
 Programme Committee
 -------------------

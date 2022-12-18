@@ -5,11 +5,11 @@ title: COINE
 
 # Committees
 
-## COINE@AAMAS2022 Co-Chairs
+## COINE@AAMAS2023 Co-Chairs
 
-[Nirav Ajmeri](mailto:nirav.ajmeri@bristol.ac.uk) (University of Bristol, UK)  
-[Andreasa Morris-Martin](mailto:alm32@bath.ac.uk) (University of Bath, UK)  
-[Tony Savarimuthu](mailto:tony.savarimuthu@otago.ac.nz) (University of Otago, NZ)   
+[Jithin Cheriyan](mailto:jithin.cheriyan@postgrad.otago.ac.nz) (University of Otago, NZ)  
+[Nicoletta Fornara](mailto:nicoletta.fornara@usi.ch) (Università della Svizzera italiana, Switzerland)  
+[Asimina Mertzani](mailto:asimina.mertzani20@imperial.ac.uk) (Imperial College of London, UK)   
 
 ## Programme Committee
 
@@ -30,3 +30,7 @@ title: COINE
 - M. Birna van Riemsdijk (University of Twente, NL)
 - Harko Verhagen (Stockholm University, SE)
 - Pınar Yolum (Utrecht University, NL)
+- Nirav Ajmeri, University of Bristol, UK
+- Stephen Cranefield, University of Otago, NZ
+- Tony Savarimuthu, University of Otago, NZ
+

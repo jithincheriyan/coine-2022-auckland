@@ -12,11 +12,11 @@ For preparation of papers please follow the instructions for authors available a
 We solicit three types of papers in the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines):
 - Full research papers (16 pages)
 - Short research papers (10 pages) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
-- Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2022 (see [https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/](https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/)), focussing on the COINE topics
+- Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2023 (see [https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/](https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/)), focussing on the COINE topics
 
 The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
-For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2022](https://easychair.org/conferences/?conf=coine2022)
+~~For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2022](https://easychair.org/conferences/?conf=coine2022)~~
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two reviewers.
 
@@ -24,7 +24,7 @@ Submission of a paper should be regarded as an undertaking that, should the pape
 
 ### Proceedings
 
-Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2022 registrants in electronic form.
+Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2023 registrants in electronic form.
 
 As with previous COIN(E) workshops, COINE intends to publish post-proceedings in Springer's LNCS series (pending confirmation). Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings.
 

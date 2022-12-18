@@ -2,10 +2,11 @@
 layout: default
 title: COINE
 ---
-💥 __*<span style="color:blue">Paper submission deadline extended to February 20, 2022 (Closed)</span>*__
 
 # Call for Papers
-COINE 2022 is co-located with the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Auckland, New Zealand, 9-13 May, 2022 [https://aamas2022-conference.auckland.ac.nz/](https://aamas2022-conference.auckland.ac.nz/)
+
+COINE 2023 is co-located with the International Conference on Autonomous Agents and
+Multiagent Systems (AAMAS), London, United Kingdom, 29 May-2 June 2023 (https://aamas2023.soton.ac.uk/)
 
 ### Overview
 
@@ -33,11 +34,11 @@ To leverage a broader understanding on how COINE-related themes are employed in 
 COINE inherited COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list ([http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/)). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
 
 
-### Important Dates (Updated)
-- Paper submission (Closed): ~~January 30, 2022~~ ~~February 13, 2022~~ February 20, 2022
-- Author notifications: ~~February 27, 2022~~ March 28, 2022
-- Camera-ready deadline: ~~March 4, 2022~~ April 7, 2022
-- Workshop: Workshop: May 10, 2022, 05:00&ndash;09:30 UTC+12 (Auckland time)
+### Important Dates 
+- Paper submission: January 30, 2023
+- Author notifications: March 13, 2023 
+- Camera-ready deadline: April 3, 2023 
+- Workshop: To be announced soon
 
 
 ### Instructions for Authors
@@ -47,11 +48,11 @@ For preparation of papers please follow the instructions for authors available a
 We solicit three types of papers in the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines):
 - Full research papers (16 pages)
 - Short research papers (10 pages) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
-- Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2022 (see [https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/](https://aamas2022-conference.auckland.ac.nz/calls/call-for-blue-sky-ideas/)), focussing on the COINE topics
+- Blue sky ideas (up to 16 pages) – These papers have the same scope of the blue sky ideas track of AAMAS 2023 (see [https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/](https://aamas2023.soton.ac.uk/calls/blue-sky-ideas/)), focussing on the COINE topics
 
 The page lengths mentioned above include figures and references. All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
-For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2022](https://easychair.org/conferences/?conf=coine2022)
+~~For submission of papers, please use the EasyChair site at: [https://easychair.org/conferences/?conf=coine2022](https://easychair.org/conferences/?conf=coine2022)~~
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two reviewers.
 
@@ -59,13 +60,13 @@ Submission of a paper should be regarded as an undertaking that, should the pape
 
 ### Proceedings
 
-Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2022 registrants in electronic form.
+Preliminary proceedings will be available before the conference. They will also be distributed to AAMAS 2023 registrants in electronic form.
 
 As with previous COIN(E) workshops, COINE intends to publish post-proceedings in Springer's LNCS series (pending confirmation). Authors will be invited to submit revised and extended versions of their paper for consideration in these post-proceedings.
 
 Revised papers must take into account the discussion held during the workshop; hence, only papers that are presented during the workshop will be considered for inclusion in the post-proceedings volume.
 
-### COINE 2022 Co-Chairs
-- [Nirav Ajmeri](mailto:nirav.ajmeri@bristol.ac.uk) (University of Bristol, UK)
-- [Andreasa Morris-Martin](mailto:alm32@bath.ac.uk) (University of Bath, UK)
-- [Tony Savarimuthu](mailto:tony.savarimuthu@otago.ac.nz) (University of Otago, NZ)
+### COINE 2023 Co-Chairs
+- [Jithin Cheriyan](mailto:jithin.cheriyan@postgrad.otago.ac.nz) (University of Otago, NZ)
+- [Nicoletta Fornara](mailto:nicoletta.fornara@usi.ch) (Università della Svizzera italiana, Switzerland)
+- [Asimina Mertzani](mailto:asimina.mertzani20@imperial.ac.uk) (Imperial College of London, UK)   
